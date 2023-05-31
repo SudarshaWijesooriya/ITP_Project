@@ -12,6 +12,8 @@ Please go under edit and edit this file as needed for your project
 ### Member 8 - IT21058400 - Munasinghe S.P (IT21058400)
 ### Member 9 - IT21034268 - Wimalasooriya S.A.N (IT21034268)
 
+#### Original Repositary Link - https://github.com/SLIITITP/kandy-kdy_2022_wd_1
+
 #### Brief Description of Project - 
 This system is for a hospital, which provides OPD, lab testing, and pharmaceutical services. The major stakeholders of the hospital are patients, doctors, inventory handler, pharmacist, and lab assistant.
 
