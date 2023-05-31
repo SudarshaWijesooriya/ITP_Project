@@ -1,0 +1,10 @@
+
+img {
+  max-width: 100%; }
+.wrapper {
+  min-height: 100vh;
+  position: relative;
+  background: url("../image/img1.png") no-repeat right center;
+  background-size: cover; }
+
+
